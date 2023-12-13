@@ -34,7 +34,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,kubernetes,grafana,prometheus,linux,bash scripting,python" /><br>
