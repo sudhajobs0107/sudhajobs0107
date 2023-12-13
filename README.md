@@ -46,6 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+   <img alt="snake" src="https://github.com/Platane/snk" />
   <img alt="snake eating my contributions" src="https://github.com/sudhajobs0107/sudhajobs0107/blob/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
