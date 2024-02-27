@@ -12,9 +12,9 @@
  
  🔭 I’m a fresher
  
- 🌱 I’m currently learning **AWS, Docker, Jenkins, Linux, Python, Kubernetes**
+ 🌱 I’m currently learning **AWS, Docker, Jenkins, Linux, Git & GitHub, Ansible, Terraform, Python, Kubernetes**
 
-💬 Ask me about **AWS, Docker, Jenkins, Linux, Python, Kubernetes**
+💬 Ask me about **AWS, Docker, Jenkins, Linux, Git & GitHub, Ansible, Terraform, Python, Kubernetes**
 
 ⚡ Fun fact **I'm funny.**
 
