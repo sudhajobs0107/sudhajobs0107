@@ -12,9 +12,9 @@
  
  🔭 I’m a fresher
  
- 🌱 I’m currently learning **AWS, Docker, Jenkins, Linux, Git & GitHub, Ansible, Terraform, Python, Kubernetes**
+ 🌱 I’m currently learning **AWS, Docker, Jenkins, Linux, Shell Scripting, GitHub, Ansible, Terraform, Python, Kubernetes, Grafana, Prometheus**
 
-💬 Ask me about **AWS, Docker, Jenkins, Linux, Git & GitHub, Ansible, Terraform, Python, Kubernetes**
+💬 Ask me about **AWS, Docker, Jenkins, Linux, Shell Scripting, GitHub, Ansible, Terraform, Python, Kubernetes, Grafana, Prometheus**
 
 ⚡ Fun fact **I'm funny.**
 
@@ -43,7 +43,7 @@
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,kubernetes,grafana,prometheus,terraform,ansible,linux,bash scripting" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,kubernetes,grafana,prometheus,terraform,ansible,python,linux,bash scripting" /><br>
 </div>
 
 <br/>
