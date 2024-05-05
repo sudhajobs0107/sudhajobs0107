@@ -12,7 +12,7 @@
  
  🔭 I’m a fresher
  
- 🌱 I’m currently learning **AWS, Docker, Jenkins, Linux, Shell Scripting, GitHub, Ansible, Terraform, Python, Kubernetes, Grafana, Prometheus**
+ 🌱 I’ve knowledge of **AWS, Docker, Jenkins, Linux, Shell Scripting, GitHub, Ansible, Terraform, Python, Kubernetes, Grafana, Prometheus**
 
 💬 Ask me about **AWS, Docker, Jenkins, Linux, Shell Scripting, GitHub, Ansible, Terraform, Python, Kubernetes, Grafana, Prometheus**
 
