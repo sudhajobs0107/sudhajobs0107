@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m a fresher
- 
  🌱 I’ve knowledge of **AWS, Docker, Jenkins, Linux, Shell Scripting, GitHub, Ansible, Terraform, Python, Kubernetes, Grafana, Prometheus**
 
 💬 Ask me about **AWS, Docker, Jenkins, Linux, Shell Scripting, GitHub, Ansible, Terraform, Python, Kubernetes, Grafana, Prometheus**
