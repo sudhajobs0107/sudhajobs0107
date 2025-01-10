@@ -27,7 +27,7 @@
 
 <h3 align="center">Aspiring to grow as an AWS DevOps Engineer by combining knowledge with hands-on projects. Excited to create innovative solutions for smooth cloud operations and automation. </h3>
 <p align="center">
-  <img align="right" alt="sudhajobs0107" width="499" src="https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" />
+  <img align="right" alt="sudhajobs0107" width="498" src="https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" />
 </p>
 
 
