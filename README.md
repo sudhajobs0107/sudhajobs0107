@@ -48,8 +48,22 @@
  <hr/>
 <h2 align="center">Tools<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,kubernetes,grafana,prometheus,terraform,ansible,python,linux,bash scripting" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,git,github,githubactions,kubernetes,grafana,prometheus,terraform" />
+
+  <img src="https://skillicons.dev/icons?i=ansible,python,linux,bash,discord,mongodb,mysql,nginx,notion,ubuntu,vscode" />
+
+  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21~bgwhite.svg" width="70"/>
+  </a>
+
+  <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21~bgwhite.svg" width="70"/>
+  </a>
+  
+  <a href="https://www.bitbucket.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21~bgwhite.svg" width="70"/>
+  </a>
 </div>
 
 <hr/>
@@ -114,4 +128,12 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!!!
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+😍" alt="Typing SVG" /></a></p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You%27re+Awesome+%F0%9F%98%8D" alt="Typing SVG" />
+  </a>
+</p>
+
+</div>
+
