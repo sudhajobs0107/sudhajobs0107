@@ -49,9 +49,9 @@
 <h2 align="center">Tools<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,git,github,githubactions,kubernetes,grafana,prometheus,terraform" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,git,github,githubactions,kubernetes,grafana,prometheus,terraform,ansible" />
 
-  <img src="https://skillicons.dev/icons?i=ansible,python,linux,bash,discord,mongodb,mysql,nginx,notion,ubuntu,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,discord,mongodb,mysql,nginx,notion,ubuntu,vscode" />
 
   <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21~bgwhite.svg" width="70"/>
@@ -65,6 +65,7 @@
     <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21~bgwhite.svg" width="70"/>
   </a>
 </div>
+
 
 <hr/>
 
