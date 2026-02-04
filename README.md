@@ -132,7 +132,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You%27re+Awesome+%F0%9F%98%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=520&lines=Thanks%2C+You%27re+Awesome+%F0%9F%98%8D" alt="Typing SVG" />
   </a>
 </p>
 
